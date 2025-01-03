@@ -20,5 +20,5 @@ while versuche > 0:
     print(f"Verbleibende Versuche: {versuche}")
 
 if versuche == 0:
-    print(f"Leider verloren. Die richtige Zahl war: {zahl
-    ja}")
+    print(f"Leider verloren. Die richtige Zahl war: {zahl}")
+
